@@ -9,8 +9,20 @@ All file sharing takes place on the local network.
 
 
 ## How to use
-- Clone project - `git clone https://github.com/firdavs9512/qr-file-transfer`
-- Open file - `./qr-file-transfer`
-- Install all packages - `go mod tidy`
-- Run app - `go run main.go`
+- Clone project: 
+```bash
+  git clone https://github.com/firdavs9512/qr-file-transfer
+```
+- Open file:
+```bash
+  ./qr-file-transfer
+```
+- Install all packages:
+```bash
+  go mod tidy
+```
+- Run app:
+```bash
+  go run main.go
+```
 
